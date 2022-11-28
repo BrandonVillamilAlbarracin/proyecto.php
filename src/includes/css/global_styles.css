@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Handlee';
+    src: local('Handlee'), url('./Handlee-Regular.ttf') format('truetype');
+}
+.fuenteChimba{
+    font-family: 'Handlee', cursive;
+    color: green;
+}

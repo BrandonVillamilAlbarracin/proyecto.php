@@ -1,0 +1,2 @@
+INSERT INTO `bebidas` (`cod_bebida`, `nombre_bebida`, `tipo`, `precio`, `foto`) 
+VALUES (NULL, 'Coca Cola', 'Gaseosa en lata - 260 ml', '6000', 'C:\\xampp\\htdocs\\proyecto\\src\\images\\coca-cola-lata-260ml.jpg');
