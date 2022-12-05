@@ -8,7 +8,7 @@
         <img style="height:300px ; width: 300px" src="./src/images/logo2.jpg" class="rounded mx-auto d-block"
             alt="<?php echo "foto" ?>">
         </br>
-        <p class="text-center" style="font-family: 'Handlee', cursive;" >Bienvenidos a Bienvenidos a VIFLOR, una inovacion
+        <p class="text-center" style="font-family: 'Handlee', cursive;" >Bienvenidos a Bienvenidos a VILLAFLOR, una inovacion
             en el mejor restaurante de Tunja!.</p>
         </br>
 
